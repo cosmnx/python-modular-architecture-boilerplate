@@ -5,7 +5,8 @@ A production-ready Modular Monolith architecture template for Python developers.
 ---
 
 ### 🚀 Get the Full Production-Ready Version
-**[Download the Full Source Code from Gumroad]https://alexdevtools.gumroad.com/l/python-radar-boilerplate**
+[Download the Full Source Code from Gumroad](https://alexdevtools.gumroad.com/l/python-radar-boilerplate)
+
 *Get the complete, pre-configured codebase, Telegram/API integrations, SQLite engine, and full documentation.*
 
 ---
